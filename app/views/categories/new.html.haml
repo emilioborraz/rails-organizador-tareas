@@ -1,5 +1,8 @@
-%h1= t('categories.new_category')
+.category.new-page
+  .card
+    .card-body
+      %h2= t('categories.new')
 
-= render 'form'
-
-= link_to t('common.back'), categories_path
+      = render 'form'
+	
+      = link_to t('common.back'), categories_path, class: 'btn-interaction'

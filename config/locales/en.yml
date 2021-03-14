@@ -19,9 +19,14 @@ en:
       edit: Edit
       name: Name
       show: Show
+    new: New
     new_category: New category
   common:
+    are_you_sure: Are you sure
     back: Atras
+    destroy: Destroy
+    edit: Edit
+    show: Show
   hello: Hello world
   task:
     errors:

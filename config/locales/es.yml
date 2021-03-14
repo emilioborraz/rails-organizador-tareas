@@ -19,9 +19,14 @@ es:
       edit: Editar
       name: Nombre
       show: Ver
+    new: Nueva categoria
     new_category: Nueva categoria
   common:
+    are_you_sure: Estas seguro?
     back: Atras
+    destroy: Eliminar
+    edit: Editar
+    show: Ver
   hello: Hello world
   task:
     errors:
